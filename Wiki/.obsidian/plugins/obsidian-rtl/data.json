@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "SPL/משפטים.md": "rtl",
+    "SPL/פרויקט ממן 14.md": "rtl"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
